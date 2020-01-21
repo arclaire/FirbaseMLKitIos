@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>873208487382-4cmcoeogd26o8sqo6v37i5qnkqon0eve.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.873208487382-4cmcoeogd26o8sqo6v37i5qnkqon0eve</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCkFu11qtE8OOcwHKTFiEkiZ4KkyZnBrNI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>873208487382</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>arclaire.FirbaseMLKitIos</string>
+	<key>PROJECT_ID</key>
+	<string>firbasemlkitios</string>
+	<key>STORAGE_BUCKET</key>
+	<string>firbasemlkitios.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:873208487382:ios:2cf8dc878b20c26b9d1877</string>
+	<key>DATABASE_URL</key>
+	<string>https://firbasemlkitios.firebaseio.com</string>
+</dict>
+</plist>
